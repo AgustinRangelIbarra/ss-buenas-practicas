@@ -6,7 +6,15 @@ form>button.btn {
     background-color: #E894B3;
 }
 form>button.btn:hover {
-    background-color: #d5648e;
+    background-color: #df477e;
+}
+
+div.jumbotron {
+    background-color: #FCD8E9;
+}
+
+div.card {
+    padding: 0% 5%;
 }
 
 div.card-header{
@@ -14,9 +22,9 @@ div.card-header{
 }
 
 a:link, a:visited {
-    color: #e6c8d3;
+    color: #FEE4ED;
     text-decoration: none;
-    cursor: auto;
+    cursor: default;
 }
   
 a:link:active, a:visited:active {
