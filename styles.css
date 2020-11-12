@@ -1,3 +1,24 @@
 .nav-item{
     padding-left: 30px;
 }
+
+form>button.btn {
+    background-color: #E894B3;
+}
+form>button.btn:hover {
+    background-color: #d5648e;
+}
+
+div.card-header{
+    background-color: #9D214F;
+}
+
+a:link, a:visited {
+    color: #e6c8d3;
+    text-decoration: none;
+    cursor: auto;
+}
+  
+a:link:active, a:visited:active {
+    color: (internal value);
+}
